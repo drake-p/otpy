@@ -1,0 +1,19 @@
+body {
+	background-color: #323e03;
+}
+
+
+.wrapper {
+	width: 85%;
+	margin: 0 auto;
+}
+
+header {
+	background-color: #342c21;
+	border-bottom: 1px solid #007789;
+}
+
+footer {
+	background-color: #342c21;
+	border-top: 12px solid #323e03;
+}
