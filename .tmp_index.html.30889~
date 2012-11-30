@@ -1,0 +1,145 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+        <meta name="HandheldFriendly" content="True">
+        <meta name="MobileOptimized" content="320">
+        <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+        <!-- Stylesheets -->
+        <link rel="stylesheet" href="css/html5reset.css" media="all">
+        <link rel="stylesheet" href="css/responsive.css" media="all">
+        <link rel="stylesheet" href="css/style.css" media="all">
+        <title>On The Path Yoga in Spring Lake, MI</title>
+    </head>
+    <body>
+        <header>
+            <div class="wrapper">
+                <h1>On <span style="letter-spacing: -0.25em">T</span>he <span style="letter-spacing: -0.15em">P</span>ath <span style="letter-spacing: -0.15em">Y</span>oga</h1>
+                <em>in SPRING LAKE, MI</em>
+                <div id="ribbon" class="only-d">
+                    <a href="https://www.facebook.com/OTPYoga?fref=ts"><img src="images/facebook.png" alt="facebook icon" class="socmed" /></a>
+					<a href="https://twitter.com/OnThePathYoga"><img src="images/twitter.png" alt="twitter icon" class="socmed" /></a>
+					<a href="http://us2.campaign-archive1.com/home/?u=467bd0a593f71e1dbdf70bf88&id=3c7ae5990e"><img src="images/newsletter.png" alt="mail icon" class="socmed" /></a>
+                </div>
+            </div>
+        </header>
+        <div class="content">
+            <div class="wrapper">
+                <div class="section group" id="tree">
+                    <div class="col span_1_of_3">
+                    </div>
+                    <div class="col span_1_of_3">
+                        <div class="thumbup">
+                        	<img src="images/Entrance-sm.jpg" alt="Studio entrance" width="100%"/>
+							<h2 align="right">About our studio...</h2>
+                        </div>
+                        <div class="thumbdown">
+                        	<h2>Latest News</h2>
+							<p><a href="https://twitter.com/OnThePathYoga">@OnThePathYoga</a><br/>
+							Big Holiday Weekend! We are closed Thurs & Fri. Open for regular classes Sat & Sun--PLUS Zoo Zen Yoga for Kids Sun 2-3pm. Join us!!</p>
+							<a href="news.php" class="obvious">newsletters...</a>
+                        </div>
+                    </div>
+                    <div class="col span_1_of_3">
+                        <div class="thumbup">
+                        	<h2>Today’s Classes</h2><br/>
+							11/23/2012
+							<p>6:30 Sunrise Yoga (45 minutes / $5 drop-in)</br>
+							10:00 Level 1 with Sandy<br/>
+							2:00 Chair Yoga with Sandy<br/>
+							4:00 Level 1 with Sandy<br/>
+							5:30 Level 2 with Sandy<br/>
+							7:00 Restorative with Jaclyn</p>
+							<a href="classes.php" class="obvious">all classes...</a>
+                        </div>
+                        <div class="thumbdown">
+                        	<img src="images/membership.png" alt="yoga pose" width="100%"/>
+                        	<h2 align="center">Membership and registration</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer>
+            <div class="wrapper">
+                <div class="section group">
+                    <div itemscope itemtype="http://schema.org/LocalBusiness">
+                        <div class="col span_1_of_4" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                            <h4>Location</h4>
+                            <p>
+                                <span itemprop="streetAddress">617 E. Savidge St. - Suite A</span>
+                                <br/>
+                                <span itemprop="addressLocality">Spring Lake</span>, <span itemprop="addressRegion">MI</span>
+                                <span itemprop="postalCode">49456</span>
+                            </p>
+                            <a href="https://maps.google.com/maps?q=on+the+path+yoga+studio&hl=en&ll=43.076788,-86.185169&spn=0.037052,0.055189&sll=40.221557,-103.802339&sspn=18.730265,38.803711&hq=on+the+path+yoga+studio&t=m&z=14"><img src="images/googlemaps.png" alt="map" /></a>
+                        </div>
+                        <div class="col span_1_of_4">
+                            <h4>Hours</h4>
+                            <dl itemscope itemtype="http://schema.org/OpeningHoursSpecification">
+                                <dt itemprop="dayOfWeek">
+                                    M-R
+                                </dt>
+                                <dd>
+                                    <span class="opens">8 AM</span>
+                                    to <span class="closes">7 PM</span>
+                                </dd>
+                                <dt itemprop="dayOfWeek">
+                                    F
+                                </dt>
+                                <dd>
+                                    <span class="opens">8 AM</span>
+                                    to <span class="closes">5 PM</span>
+                                </dd>
+                                <dt itemprop="dayOfWeek">
+                                    Sat
+                                </dt>
+                                <dd>
+                                    <span class="opens">8 AM</span>
+                                    to <span class="closes">12 PM</span>
+                                </dd>
+                                <dt itemprop="dayOfWeek">
+                                    Sun
+                                </dt>
+                                <dd>
+                                    closed
+                                </dd>
+                            </dl>
+                            <p>
+                                These are open studio times.  Class and workshop times may differ.
+                            </p>
+                        </div>
+                        <div class="col span_1_of_4">
+                            <h4>Contact</h4>
+                            <p>
+                                Phone: <span itemprop="telephone">(616) 935-7028</span>
+                            </p>
+                            <p>
+                                General info: <a href="mailto:YogiBuni@OnThePathYoga.com" itemprop="email">YogiBuni@OnThePathYoga.com</a>
+                            </p>
+                            <p>
+                                Sandy’s email (owner): <a href="mailto:sandy@OnThePathYoga.com" itemprop="email">sandy@OnThePathYoga.com</a>
+                            </p>
+                        </div>
+                        <div class="col span_1_of_4">
+                            <h4>Follow</h4>
+                            <p>
+                                <a href="https://www.facebook.com/OTPYoga?fref=ts"><img src="images/facebook.png" alt="facebook icon" class="socmed" />facebook</a>
+                            </p>
+                            <p>
+                                <a href="https://twitter.com/OnThePathYoga"><img src="images/twitter.png" alt="twitter icon" class="socmed" />twitter</a>
+                            </p>
+                            <p>
+                               <a href="http://us2.campaign-archive1.com/home/?u=467bd0a593f71e1dbdf70bf88&id=3c7ae5990e"> <img src="images/newsletter.png" alt="mail icon" class="socmed" />newsletter</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <div id="copyright">
+            Site &copy;2012 On The Path Yoga.  All rights reserved.
+        </div>
+        <!-- End footer -->
+    </body>
+</html>
