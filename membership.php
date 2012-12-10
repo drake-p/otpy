@@ -1,0 +1,90 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+        <meta name="HandheldFriendly" content="True">
+        <meta name="MobileOptimized" content="320">
+        <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+        <!-- Stylesheets -->
+        <link rel="stylesheet" href="css/html5reset.css" media="all">
+        <link rel="stylesheet" href="css/style.css" media="all">
+        <link rel="stylesheet" href="css/responsive.css" media="all">
+        <title>On The Path Yoga | Membership</title>
+    </head>
+    <body>
+        <?php include('includes/header.php'); ?>
+		<?php include('includes/nav.php'); ?>
+        <div class="content">
+            <div class="wrapper">
+                	
+                    <div class="box">
+                <div class="section group">
+                    	<div class="col span_1_of_3 single-t centered">
+                        <img src="images/membership.png" alt="yoga pose">
+                    </div>
+                    <div class="col span_2_of_3 single-t">
+                        <h2>Membership options</h2>
+						<p>On The Path Yoga offers several membership plans to fit your situation: Unlimited, Punchcard, and Day Pass.  Membership can be purchased online or in person at the studio.</p>
+						<p><a href="http://www.onthepathyoga.com/cart/index.php?route=product/category&path=60" class="obvious">Sign up online...</a></p>
+					</div>
+				</div>
+                <div class="section group" id="unlimited">
+                	<hr/>
+                    <div class="col span_1_of_3 single-t right">
+                    	<p><a href="https://www.onthepathyoga.com/cart/index.php?route=product/product&path=60_65&product_id=55"><img src="images/cart-monthly.png" width="100px" height="100px" alt="monthly membership"></a><a href="https://www.onthepathyoga.com/cart/index.php?route=product/product&path=60&product_id=53"><img src="images/cart-yearly.png" width="100px" height="100px" alt="yearly membership"></a></p>
+                    </div>
+                    <div class="col span_2_of_3 single-t">
+                        <h5>Unlimited memberships</h5>
+						<p>Available by the month or the year, this gets you unlimited access to our regular classes and to open studio time.  Special workshops are not included.</p>
+					</div>
+                </div>
+				<div class="section group" id="punchcard">
+					<hr/>
+					<div class="col span_1_of_3 single-t right">
+						<p><a href="https://www.onthepathyoga.com/cart/index.php?route=product/product&path=60&product_id=51"><img src="images/cart-punchcard.png" width="100px" height="100px" alt="punchcard membership"></a><a href="https://www.onthepathyoga.com/cart/index.php?route=product/product&path=60&product_id=56"><img src="images/cart-senior_punchcard.png" width="100px" height="100px" alt="punchcard for seniors"></a></p>
+					</div>
+					<div class="col span_2_of_3 single-t">
+						<h5>Punchcards</h5>
+						<p>This gets you any 12 regular classes of your choice, with no expiration date.  Open studio time and special workshops are not included.</p>
+						<p>We also offer a senior punchcard for 12 gentle chair yoga classes at a discounted rate.</p>
+					</div>
+				</div>
+				<div class="section group" id="daypass">
+					<hr/>
+					<div class="col span_1_of_3 single-t right">
+						<p><a hef="https://www.onthepathyoga.com/cart/index.php?route=product/product&path=60&product_id=57"><img src="images/cart-daily.png" width="100px" height="100px" alt="day pass"></a></p>
+					</div>
+					<div class="col span_2_of_3 single-t">
+						<h5>Day pass</h5>
+						<p>Perfect for out-of-town visitors, this is good for one day of unlimited class and open studio access.  Special workshops are not included.</p>
+					</div>
+				</div>
+				<div class="section group">
+					<hr/>
+					<div class="col span_1_of_3 single-t right">
+						<p><a href="https://www.onthepathyoga.com/cart/index.php?route=product/category&path=59"><img src="images/cart-sun_salutations.png" width="100px" height="100px" alt="workshop"><img src="images/cart-ws_partners.jpg" width="100px" height="100px" alt="workshop"><img src="images/cart-ws_paths_to_transformation.jpg" width="100px" height="100px" alt="workshop"><img src="images/cart-ws_zoozen.png" width="100px" height="100px" alt="workshop"></a></p>
+					</div>
+					<div class="col span_2_of_3 single-t">
+						<h5>Workshops and free classes</h5>
+						<p>You do not need to be a member to take advantage of these special events.  Free classes are a great way to acquaint yourself with the studio before signing on for a full membership.  Workshops are an opportunity to receive specialized attention, have fun with a thematic event, or learn from an invited instructor.</p>
+						<p><a href="http://www.onthepathyoga.com/cart/index.php?route=product/category&path=59">Current workshops...</a></p>
+					</div>
+				</div>
+				
+				<div class="section group">
+					<hr/>
+					<div class="col span_1_of_3 single-t right">
+						&nbsp;
+					</div>
+					<div class="col span_2_of_3 single-t">
+						<h3>Registration</h3>
+						<p>To reserve space in a class, call or text our studio at (616) 935-7028 or stop by during our open studio hours.  We also accept walk-ins on a first-come, first-served basis.</p>
+					</div>
+				</div>
+					</div><div class="clear"></div>
+            </div>
+        </div>
+		</div>
+        <?php include('includes/footer.php'); ?>
+    </body>
+</html>
